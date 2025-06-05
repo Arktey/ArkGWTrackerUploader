@@ -14,7 +14,7 @@ A tool to automatically collect and upload Epic Seven Guild War defense data.
    ![Start Screen](start_screen_example.png)
 
 4. **Run `ArkGWTrackerUploader.exe`** (double-click or run from command line).
-5. **Enter your daily upload code** when prompted (must be exactly 12 characters).
+5. **Enter your daily upload code** when prompted, you can find the code on your account page on the [Ark Guild War Tracker](https://ark-gw-tracker-web.vercel.app) site after logging in (must be exactly 12 characters).
 6. **Follow the on-screen instructions**.  
    - The tool will collect data automatically.
    - Press `ESC` at any time to stop.
