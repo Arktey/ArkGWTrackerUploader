@@ -23,14 +23,6 @@ A tool to automatically collect and upload Epic Seven Guild War defense data.
 
 ---
 
-## 🖼️ Example Start Screen
-
-> The image below shows the correct in-game screen to start the uploader.
-
-![Start Screen](start_screen_example.png)
-
----
-
 ## ⚠️ Notes
 
 - **Do not move or rename any folders** (`adb`, `heroData`, `outcome_images`).
