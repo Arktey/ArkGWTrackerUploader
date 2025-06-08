@@ -7,7 +7,7 @@ A tool to automatically collect and upload Epic Seven Guild War defense data.
 ## 📦 How to Use
 
 1. **Extract** all files from the release zip to a folder (keep the folder structure!).
-2. **Make sure BlueStacks is running** and you are logged into Epic Seven.
+2. **Make sure BlueStacks is running with ADB enabled at 1920 by 1080** and you are logged into Epic Seven.
 3. **Navigate to the Guild War page** in the game.  
    _You should be on the following screen before starting the uploader:_
 
