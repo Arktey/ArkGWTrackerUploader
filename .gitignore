@@ -1,0 +1,25 @@
+# Private update scripts and documentation
+update_repo_data.py
+UPDATE_SCRIPT_README.md
+requirements_update.txt
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log 
