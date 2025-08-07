@@ -33,7 +33,15 @@
       "icon": "images/icons/c1017.png",
       "thumbnail": "images/thumbnails/c1017_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1017_s01_s",
+        "name": "Achates Skin",
+        "assets": {
+          "icon": "images/skins/c1017_s01_s.png"
+        }
+      }
+    ]
   },
   "Adin": {
     "code": "c3143",
@@ -189,7 +197,15 @@
       "icon": "images/icons/c1018.png",
       "thumbnail": "images/thumbnails/c1018_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1018_s01_s",
+        "name": "Aither Skin",
+        "assets": {
+          "icon": "images/skins/c1018_s01_s.png"
+        }
+      }
+    ]
   },
   "Albedo": {
     "code": "c1156",
@@ -213,7 +229,15 @@
       "icon": "images/icons/c1100.png",
       "thumbnail": "images/thumbnails/c1100_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1100_s01_s",
+        "name": "Alencia Skin",
+        "assets": {
+          "icon": "images/skins/c1100_s01_s.png"
+        }
+      }
+    ]
   },
   "Alexa": {
     "code": "c3012",
@@ -297,7 +321,15 @@
       "icon": "images/icons/c4042.png",
       "thumbnail": "images/thumbnails/c4042_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c4042_s01_s",
+        "name": "Angelic Montmorancy Skin",
+        "assets": {
+          "icon": "images/skins/c4042_s01_s.png"
+        }
+      }
+    ]
   },
   "Angelica": {
     "code": "c1062",
@@ -309,7 +341,15 @@
       "icon": "images/icons/c1062.png",
       "thumbnail": "images/thumbnails/c1062_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1062_s01_s",
+        "name": "Angelica Skin",
+        "assets": {
+          "icon": "images/skins/c1062_s01_s.png"
+        }
+      }
+    ]
   },
   "Apocalypse Ravi": {
     "code": "c2019",
@@ -321,7 +361,15 @@
       "icon": "images/icons/c2019.png",
       "thumbnail": "images/thumbnails/c2019_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2019_s01_s",
+        "name": "Apocalypse Ravi Skin",
+        "assets": {
+          "icon": "images/skins/c2019_s01_s.png"
+        }
+      }
+    ]
   },
   "Aram": {
     "code": "c5175",
@@ -357,7 +405,15 @@
       "icon": "images/icons/c2007.png",
       "thumbnail": "images/thumbnails/c2007_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2007_s01_s",
+        "name": "Arbiter Vildred Skin",
+        "assets": {
+          "icon": "images/skins/c2007_s01_s.png"
+        }
+      }
+    ]
   },
   "Archdemon's Shadow": {
     "code": "c5004",
@@ -549,7 +605,15 @@
       "icon": "images/icons/c1053.png",
       "thumbnail": "images/thumbnails/c1053_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1053_s01_s",
+        "name": "Basar Skin",
+        "assets": {
+          "icon": "images/skins/c1053_s01_s.png"
+        }
+      }
+    ]
   },
   "Bask": {
     "code": "c3006",
@@ -597,7 +661,15 @@
       "icon": "images/icons/c1117.png",
       "thumbnail": "images/thumbnails/c1117_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1117_s01_s",
+        "name": "Belian Skin",
+        "assets": {
+          "icon": "images/skins/c1117_s01_s.png"
+        }
+      }
+    ]
   },
   "Bellona": {
     "code": "c1071",
@@ -717,7 +789,15 @@
       "icon": "images/icons/c1097.png",
       "thumbnail": "images/thumbnails/c1097_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1097_s01_s",
+        "name": "Bomb Model Kanna Skin",
+        "assets": {
+          "icon": "images/skins/c1097_s01_s.png"
+        }
+      }
+    ]
   },
   "Boss Arunka": {
     "code": "c2124",
@@ -741,7 +821,15 @@
       "icon": "images/icons/c2024.png",
       "thumbnail": "images/thumbnails/c2024_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2024_s01_s",
+        "name": "Briar Witch Iseria Skin",
+        "assets": {
+          "icon": "images/skins/c2024_s01_s.png"
+        }
+      }
+    ]
   },
   "Brieg": {
     "code": "c1145",
@@ -861,7 +949,15 @@
       "icon": "images/icons/c1002.png",
       "thumbnail": "images/thumbnails/c1002_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1002_s01_s",
+        "name": "Cecilia Skin",
+        "assets": {
+          "icon": "images/skins/c1002_s01_s.png"
+        }
+      }
+    ]
   },
   "Celeste": {
     "code": "c3064",
@@ -897,7 +993,15 @@
       "icon": "images/icons/c1103.png",
       "thumbnail": "images/thumbnails/c1103_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1103_s01_s",
+        "name": "Celine Skin",
+        "assets": {
+          "icon": "images/skins/c1103_s01_s.png"
+        }
+      }
+    ]
   },
   "Cerise": {
     "code": "c1081",
@@ -909,7 +1013,15 @@
       "icon": "images/icons/c1081.png",
       "thumbnail": "images/thumbnails/c1081_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1081_s01_s",
+        "name": "Cerise Skin",
+        "assets": {
+          "icon": "images/skins/c1081_s01_s.png"
+        }
+      }
+    ]
   },
   "Cermia": {
     "code": "c1079",
@@ -921,7 +1033,15 @@
       "icon": "images/icons/c1079.png",
       "thumbnail": "images/thumbnails/c1079_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1079_s01_s",
+        "name": "Cermia Skin",
+        "assets": {
+          "icon": "images/skins/c1079_s01_s.png"
+        }
+      }
+    ]
   },
   "Challenger Dominiel": {
     "code": "c2037",
@@ -981,7 +1101,15 @@
       "icon": "images/icons/c1027.png",
       "thumbnail": "images/thumbnails/c1027_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1027_s01_s",
+        "name": "Charles Skin",
+        "assets": {
+          "icon": "images/skins/c1027_s01_s.png"
+        }
+      }
+    ]
   },
   "Charlotte": {
     "code": "c1009",
@@ -1017,7 +1145,15 @@
       "icon": "images/icons/c1101.png",
       "thumbnail": "images/thumbnails/c1101_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1101_s01_s",
+        "name": "Choux Skin",
+        "assets": {
+          "icon": "images/skins/c1101_s01_s.png"
+        }
+      }
+    ]
   },
   "Christy": {
     "code": "c3123",
@@ -1053,7 +1189,15 @@
       "icon": "images/icons/c1014.png",
       "thumbnail": "images/thumbnails/c1014_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1014_s01_s",
+        "name": "Cidd Skin",
+        "assets": {
+          "icon": "images/skins/c1014_s01_s.png"
+        }
+      }
+    ]
   },
   "Clarissa": {
     "code": "c1028",
@@ -1257,7 +1401,15 @@
       "icon": "images/icons/c2022.png",
       "thumbnail": "images/thumbnails/c2022_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2022_s01_s",
+        "name": "Destina Skin",
+        "assets": {
+          "icon": "images/skins/c2022_s01_s.png"
+        }
+      }
+    ]
   },
   "Diene": {
     "code": "c1076",
@@ -1269,7 +1421,15 @@
       "icon": "images/icons/c1076.png",
       "thumbnail": "images/thumbnails/c1076_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1076_s01_s",
+        "name": "Diene Skin",
+        "assets": {
+          "icon": "images/skins/c1076_s01_s.png"
+        }
+      }
+    ]
   },
   "Dingo": {
     "code": "c1021",
@@ -1413,7 +1573,15 @@
       "icon": "images/icons/c1091.png",
       "thumbnail": "images/thumbnails/c1091_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1091_s01_s",
+        "name": "Elena Skin",
+        "assets": {
+          "icon": "images/skins/c1091_s01_s.png"
+        }
+      }
+    ]
   },
   "Eligos": {
     "code": "c1142",
@@ -1557,7 +1725,15 @@
       "icon": "images/icons/c2046.png",
       "thumbnail": "images/thumbnails/c2046_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2046_s01_s",
+        "name": "Faithless Lidica Skin",
+        "assets": {
+          "icon": "images/skins/c2046_s01_s.png"
+        }
+      }
+    ]
   },
   "Falconer Kluri": {
     "code": "c4003",
@@ -1581,7 +1757,15 @@
       "icon": "images/icons/c2002.png",
       "thumbnail": "images/thumbnails/c2002_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2002_s01_s",
+        "name": "Fallen Cecilia Skin",
+        "assets": {
+          "icon": "images/skins/c2002_s01_s.png"
+        }
+      }
+    ]
   },
   "Fenne": {
     "code": "c1170",
@@ -1653,7 +1837,15 @@
       "icon": "images/icons/c3026.png",
       "thumbnail": "images/thumbnails/c3026_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c3026_s01_s",
+        "name": "Free Spirit Tieria Skin",
+        "assets": {
+          "icon": "images/skins/c3026_s01_s.png"
+        }
+      }
+    ]
   },
   "Frida": {
     "code": "c1163",
@@ -2013,7 +2205,15 @@
       "icon": "images/icons/c1024.png",
       "thumbnail": "images/thumbnails/c1024_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1024_s01_s",
+        "name": "Iseria Skin",
+        "assets": {
+          "icon": "images/skins/c1024_s01_s.png"
+        }
+      }
+    ]
   },
   "Jack-O": {
     "code": "c1130",
@@ -2085,7 +2285,15 @@
       "icon": "images/icons/c2006.png",
       "thumbnail": "images/thumbnails/c2006_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2006_s01_s",
+        "name": "Judge Kise Skin",
+        "assets": {
+          "icon": "images/skins/c2006_s01_s.png"
+        }
+      }
+    ]
   },
   "Judith": {
     "code": "c3011",
@@ -2133,7 +2341,15 @@
       "icon": "images/icons/c1011.png",
       "thumbnail": "images/thumbnails/c1011_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1011_s01_s",
+        "name": "Karin Skin",
+        "assets": {
+          "icon": "images/skins/c1011_s01_s.png"
+        }
+      }
+    ]
   },
   "Kawerik": {
     "code": "c1073",
@@ -2157,7 +2373,15 @@
       "icon": "images/icons/c1023.png",
       "thumbnail": "images/thumbnails/c1023_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1023_s01_s",
+        "name": "Kayron Skin",
+        "assets": {
+          "icon": "images/skins/c1023_s01_s.png"
+        }
+      }
+    ]
   },
   "Ken": {
     "code": "c1047",
@@ -2325,7 +2549,15 @@
       "icon": "images/icons/c2070.png",
       "thumbnail": "images/thumbnails/c2070_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2070_s01_s",
+        "name": "Last Rider Krau Skin",
+        "assets": {
+          "icon": "images/skins/c2070_s01_s.png"
+        }
+      }
+    ]
   },
   "Leah": {
     "code": "c3163",
@@ -2385,7 +2617,15 @@
       "icon": "images/icons/c1046.png",
       "thumbnail": "images/thumbnails/c1046_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1046_s01_s",
+        "name": "Lidica Skin",
+        "assets": {
+          "icon": "images/skins/c1046_s01_s.png"
+        }
+      }
+    ]
   },
   "Lilka": {
     "code": "c3153",
@@ -2433,7 +2673,15 @@
       "icon": "images/icons/c2079.png",
       "thumbnail": "images/thumbnails/c2079_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2079_s01_s",
+        "name": "Lionheart Cermia Skin",
+        "assets": {
+          "icon": "images/skins/c2079_s01_s.png"
+        }
+      }
+    ]
   },
   "Little Queen Charlotte": {
     "code": "c2009",
@@ -2445,7 +2693,15 @@
       "icon": "images/icons/c2009.png",
       "thumbnail": "images/thumbnails/c2009_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2009_s01_s",
+        "name": "Little Queen Charlotte Skin",
+        "assets": {
+          "icon": "images/skins/c2009_s01_s.png"
+        }
+      }
+    ]
   },
   "Lone Crescent Bellona": {
     "code": "c2071",
@@ -2541,7 +2797,15 @@
       "icon": "images/icons/c1082.png",
       "thumbnail": "images/thumbnails/c1082_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1082_s01_s",
+        "name": "Luluca Skin",
+        "assets": {
+          "icon": "images/skins/c1082_s01_s.png"
+        }
+      }
+    ]
   },
   "Luna": {
     "code": "c1066",
@@ -2553,7 +2817,15 @@
       "icon": "images/icons/c1066.png",
       "thumbnail": "images/thumbnails/c1066_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1066_s01_s",
+        "name": "Luna Skin",
+        "assets": {
+          "icon": "images/skins/c1066_s01_s.png"
+        }
+      }
+    ]
   },
   "Magic Scholar Doris": {
     "code": "c4044",
@@ -2577,7 +2849,15 @@
       "icon": "images/icons/c2049.png",
       "thumbnail": "images/thumbnails/c2049_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2049_s01_s",
+        "name": "Maid Chloe Skin",
+        "assets": {
+          "icon": "images/skins/c2049_s01_s.png"
+        }
+      }
+    ]
   },
   "Martial Artist Ken": {
     "code": "c2047",
@@ -2625,7 +2905,15 @@
       "icon": "images/icons/c2073.png",
       "thumbnail": "images/thumbnails/c2073_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2073_s01_s",
+        "name": "Mediator Kawerik Skin",
+        "assets": {
+          "icon": "images/skins/c2073_s01_s.png"
+        }
+      }
+    ]
   },
   "Melany": {
     "code": "c3121",
@@ -2973,7 +3261,15 @@
       "icon": "images/icons/c1125.png",
       "thumbnail": "images/thumbnails/c1125_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1125_s01_s",
+        "name": "Peira Skin",
+        "assets": {
+          "icon": "images/skins/c1125_s01_s.png"
+        }
+      }
+    ]
   },
   "Penelope": {
     "code": "c3125",
@@ -3009,7 +3305,15 @@
       "icon": "images/icons/c2110.png",
       "thumbnail": "images/thumbnails/c2110_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2110_s01_s",
+        "name": "Pirate Captain Flan Skin",
+        "assets": {
+          "icon": "images/skins/c2110_s01_s.png"
+        }
+      }
+    ]
   },
   "Politis": {
     "code": "c1112",
@@ -3021,7 +3325,15 @@
       "icon": "images/icons/c1112.png",
       "thumbnail": "images/thumbnails/c1112_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1112_s01_s",
+        "name": "Politis Skin",
+        "assets": {
+          "icon": "images/skins/c1112_s01_s.png"
+        }
+      }
+    ]
   },
   "Purrgis": {
     "code": "c1035",
@@ -3081,7 +3393,15 @@
       "icon": "images/icons/c1118.png",
       "thumbnail": "images/thumbnails/c1118_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1118_s01_s",
+        "name": "Ran Skin",
+        "assets": {
+          "icon": "images/skins/c1118_s01_s.png"
+        }
+      }
+    ]
   },
   "Ras": {
     "code": "c1001",
@@ -3105,7 +3425,15 @@
       "icon": "images/icons/c1019.png",
       "thumbnail": "images/thumbnails/c1019_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1019_s01_s",
+        "name": "Ravi Skin",
+        "assets": {
+          "icon": "images/skins/c1019_s01_s.png"
+        }
+      }
+    ]
   },
   "Ray": {
     "code": "c1090",
@@ -3345,7 +3673,15 @@
       "icon": "images/icons/c1003.png",
       "thumbnail": "images/thumbnails/c1003_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1003_s01_s",
+        "name": "Rose Skin",
+        "assets": {
+          "icon": "images/skins/c1003_s01_s.png"
+        }
+      }
+    ]
   },
   "Roy Mustang": {
     "code": "c1135",
@@ -3369,7 +3705,15 @@
       "icon": "images/icons/c1022.png",
       "thumbnail": "images/thumbnails/c1022_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1022_s01_s",
+        "name": "Ruele of Light Skin",
+        "assets": {
+          "icon": "images/skins/c1022_s01_s.png"
+        }
+      }
+    ]
   },
   "Sage Baal & Sezan": {
     "code": "c2015",
@@ -3453,7 +3797,15 @@
       "icon": "images/icons/c1106.png",
       "thumbnail": "images/thumbnails/c1106_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1106_s01_s",
+        "name": "Senya Skin",
+        "assets": {
+          "icon": "images/skins/c1106_s01_s.png"
+        }
+      }
+    ]
   },
   "Serene Purity Adin": {
     "code": "c4142",
@@ -3489,7 +3841,15 @@
       "icon": "images/icons/c1038.png",
       "thumbnail": "images/thumbnails/c1038_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1038_s01_s",
+        "name": "Sez Skin",
+        "assets": {
+          "icon": "images/skins/c1038_s01_s.png"
+        }
+      }
+    ]
   },
   "Shadow Knight Pyllis": {
     "code": "c4005",
@@ -3633,7 +3993,15 @@
       "icon": "images/icons/c2062.png",
       "thumbnail": "images/thumbnails/c2062_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2062_s01_s",
+        "name": "Sinful Angelica Skin",
+        "assets": {
+          "icon": "images/skins/c2062_s01_s.png"
+        }
+      }
+    ]
   },
   "Sol": {
     "code": "c1092",
@@ -3693,7 +4061,15 @@
       "icon": "images/icons/c2050.png",
       "thumbnail": "images/thumbnails/c2050_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2050_s01_s",
+        "name": "Specter Tenebria Skin",
+        "assets": {
+          "icon": "images/skins/c2050_s01_s.png"
+        }
+      }
+    ]
   },
   "Spirit Eye Celine": {
     "code": "c2103",
@@ -3813,7 +4189,15 @@
       "icon": "images/icons/c2088.png",
       "thumbnail": "images/thumbnails/c2088_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2088_s01_s",
+        "name": "Sylvan Sage Vivian Skin",
+        "assets": {
+          "icon": "images/skins/c2088_s01_s.png"
+        }
+      }
+    ]
   },
   "Taeyou": {
     "code": "c1127",
@@ -3861,7 +4245,22 @@
       "icon": "images/icons/c1067.png",
       "thumbnail": "images/thumbnails/c1067_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1067_s01_s",
+        "name": "Tamarinne Skin",
+        "assets": {
+          "icon": "images/skins/c1067_s01_s.png"
+        }
+      },
+      {
+        "code": "c1067_s02_s",
+        "name": "Tamarinne Skin",
+        "assets": {
+          "icon": "images/skins/c1067_s02_s.png"
+        }
+      }
+    ]
   },
   "Taranor Guard": {
     "code": "c3032",
@@ -3897,7 +4296,15 @@
       "icon": "images/icons/c2065.png",
       "thumbnail": "images/thumbnails/c2065_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c2065_s01_s",
+        "name": "Tempest Surin Skin",
+        "assets": {
+          "icon": "images/skins/c2065_s01_s.png"
+        }
+      }
+    ]
   },
   "Tenebria": {
     "code": "c1050",
@@ -3909,7 +4316,15 @@
       "icon": "images/icons/c1050.png",
       "thumbnail": "images/thumbnails/c1050_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1050_s01_s",
+        "name": "Tenebria Skin",
+        "assets": {
+          "icon": "images/skins/c1050_s01_s.png"
+        }
+      }
+    ]
   },
   "Tieria": {
     "code": "c3021",
@@ -4065,7 +4480,15 @@
       "icon": "images/icons/c1007.png",
       "thumbnail": "images/thumbnails/c1007_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1007_s01_s",
+        "name": "Vildred Skin",
+        "assets": {
+          "icon": "images/skins/c1007_s01_s.png"
+        }
+      }
+    ]
   },
   "Violet": {
     "code": "c1074",
@@ -4077,7 +4500,15 @@
       "icon": "images/icons/c1074.png",
       "thumbnail": "images/thumbnails/c1074_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1074_s01_s",
+        "name": "Violet Skin",
+        "assets": {
+          "icon": "images/skins/c1074_s01_s.png"
+        }
+      }
+    ]
   },
   "Vivian": {
     "code": "c1088",
@@ -4089,7 +4520,15 @@
       "icon": "images/icons/c1088.png",
       "thumbnail": "images/thumbnails/c1088_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1088_s01_s",
+        "name": "Vivian Skin",
+        "assets": {
+          "icon": "images/skins/c1088_s01_s.png"
+        }
+      }
+    ]
   },
   "Wanda": {
     "code": "c3065",
@@ -4197,7 +4636,15 @@
       "icon": "images/icons/c1016.png",
       "thumbnail": "images/thumbnails/c1016_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1016_s01_s",
+        "name": "Yufine Skin",
+        "assets": {
+          "icon": "images/skins/c1016_s01_s.png"
+        }
+      }
+    ]
   },
   "Yulha": {
     "code": "c1131",
@@ -4221,7 +4668,15 @@
       "icon": "images/icons/c1030.png",
       "thumbnail": "images/thumbnails/c1030_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1030_s01_s",
+        "name": "Yuna Skin",
+        "assets": {
+          "icon": "images/skins/c1030_s01_s.png"
+        }
+      }
+    ]
   },
   "Zahhak": {
     "code": "c1119",
