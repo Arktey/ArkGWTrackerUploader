@@ -323,6 +323,18 @@
     },
     "skins": []
   },
+  "Aram": {
+    "code": "c5175",
+    "name": "Aram",
+    "rarity": 5,
+    "attribute": "fire",
+    "role": "manauser",
+    "assets": {
+      "icon": "images/icons/c5175.png",
+      "thumbnail": "images/thumbnails/c5175_l.png"
+    },
+    "skins": []
+  },
   "Aramintha": {
     "code": "c1048",
     "name": "Aramintha",
@@ -4287,7 +4299,7 @@
     "code": "c6050",
     "name": "Witch of the Mere Tenebria",
     "rarity": 5,
-    "attribute": "fire",
+    "attribute": "light",
     "role": "mage",
     "assets": {
       "icon": "images/icons/c6050.png",
