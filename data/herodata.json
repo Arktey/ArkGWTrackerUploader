@@ -1989,7 +1989,15 @@
       "icon": "images/icons/c1153.png",
       "thumbnail": "images/thumbnails/c1153_l.png"
     },
-    "skins": []
+    "skins": [
+      {
+        "code": "c1153_s01_s",
+        "name": "Harsetti Skin",
+        "assets": {
+          "icon": "images/skins/c1153_s01_s.png"
+        }
+      }
+    ]
   },
   "Hasol": {
     "code": "c3135",
