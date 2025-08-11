@@ -1,12 +1,20 @@
 # ArkGWTrackerUploader
 
-A tool to automatically collect and upload Epic Seven Guild War defense data.
+A tool to automatically collect and upload Epic Seven Guild War defense data. Available in two versions:
+
+- **ADB Version** (Recommended) - Works with Android emulators via ADB
+- **PC Client Version** - Works with Epic Seven PC client using mouse control
+
+The ADB Version is recommended as it does not take control of your mouse, allowing you to use your device while running the script.
+
+The script takes approximately 15 minutes to complete.
 
 ---
 
 ## 📦 How to Use
 
-1. **Extract** all files from the release zip to a folder (keep the folder structure!).
+### ADB Version (Recommended)
+1. **Extract** all files from the `ArkGWTrackerUploader-v1.x.x.zip` to a folder (keep the folder structure!).
 2. **Make sure your preferred emulator is running** and you are logged into Epic Seven.
 3. **Navigate to the Guild War page** in the game.  
    _You should be on the following screen before starting the uploader:_
@@ -20,13 +28,29 @@ A tool to automatically collect and upload Epic Seven Guild War defense data.
    - Data collection will proceed automatically
    - Press `ESC` at any time to stop
 
-7. **After upload** you can safely close the program.
+7. You can safely close the program at any time and continue where you left off when it prompts you to continue.
+
+
+### PC Client Version
+1. **Extract** all files from the `ArkGWTracker_PC-v1.x.x.zip` to a folder (keep the folder structure!).
+2. **Make sure Epic Seven PC client is running** and you are logged in.
+3. **Navigate to the Guild War page** in the game**.
+4. **Run `ArkGWTracker_PC.exe` as Administrator** (required for Windows API access).
+5. **Enter your daily upload code** when prompted.
+6. **Follow the on-screen instructions**.  
+   - The tool will automatically find and manage the Epic Seven window
+   - Data collection will proceed automatically using mouse control
+   - Press `ESC` at any time to stop
+
+7. You can safely close the program at any time and continue where you left off when it prompts you to continue.
+
 
 ---
 
-## 🎮 Supported Emulators
+## 🎮 Supported Platforms
 
-The tool automatically detects and supports the following emulators:
+### ADB Version - Supported Emulators
+The ADB version automatically detects and supports the following emulators:
 
 - **BlueStacks** (all versions)
 - **NoxPlayer** (all versions)
@@ -35,21 +59,27 @@ The tool automatically detects and supports the following emulators:
 - **Genymotion** (all versions)
 - **Andy** (all versions)
 
-### Emulator Detection
 
-The tool uses multiple methods to detect emulators:
-- Process detection (finds running emulator processes)
-- Registry scanning (finds ADB ports from emulator settings)
-- Automatic port testing (verifies ADB connectivity)
+### PC Client Version - Epic Seven PC Client
+- **Epic Seven PC Client** (Windows)
+
 
 ---
 
 ## ⚠️ Notes
 
+### ADB Version
 - **Do not move or rename any folders** (`adb`, `heroData`, `outcome_images`).
 - The uploader does **not** require Python or any installation.
 - If you have issues connecting to your emulator, try running as administrator.
 - Make sure ADB is enabled in your emulator settings.
+
+### PC Client Version
+- **Do not move or rename any folders** (`heroData`, `outcome_images`).
+- The uploader does **not** require Python or any installation.
+- **Must run as Administrator** for Windows API access.
+- **Mouse control** - the tool will move your mouse cursor during operation.
+- **Window management** - the tool will resize and position the Epic Seven window if needed.
 
 ---
 
