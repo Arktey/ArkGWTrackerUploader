@@ -13,6 +13,8 @@ The script takes approximately 15 minutes to complete.
 
 ## 📦 How to Use
 
+Go to the **Releases** tab on the right and download the version you would like to use ->
+
 ### ADB Version (Recommended)
 1. **Extract** all files from the `ArkGWTrackerUploader-v1.x.x.zip` to a folder (keep the folder structure!).
 2. **Make sure your preferred emulator is running** and you are logged into Epic Seven.
