@@ -34,7 +34,7 @@ The script takes approximately 15 minutes to complete.
 ### PC Client Version
 1. **Extract** all files from the `ArkGWTracker_PC-v1.x.x.zip` to a folder (keep the folder structure!).
 2. **Make sure Epic Seven PC client is running** and you are logged in.
-3. **Navigate to the Guild War page** in the game**.
+3. **Navigate to the Guild War page** in the game.
 4. **Run `ArkGWTracker_PC.exe` as Administrator** (required for Windows API access).
 5. **Enter your daily upload code** when prompted.
 6. **Follow the on-screen instructions**.  
