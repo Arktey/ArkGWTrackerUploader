@@ -4769,5 +4769,41 @@
       "thumbnail": "images/thumbnails/c6050_l.png"
     },
     "skins": []
+  },
+  "Lady of the Scales": {
+    "code": "c6005",
+    "name": "Lady of the Scales",
+    "rarity": 5,
+    "attribute": "light",
+    "role": "manauser",
+    "assets": {
+      "icon": "images/icons/c6005.png",
+      "thumbnail": "images/thumbnails/c6005_l.png"
+    },
+    "skins": []
+  },
+  "Setsuka": {
+    "code": "c1176",
+    "name": "Setsuka",
+    "rarity": 5,
+    "attribute": "fire",
+    "role": "assassin",
+    "assets": {
+      "icon": "images/icons/c1176.png",
+      "thumbnail": "images/thumbnails/c1176_l.png"
+    },
+    "skins": []
+  },
+  "Genesis Ras": {
+    "code": "c2001",
+    "name": "Genesis Ras",
+    "rarity": 5,
+    "attribute": "light",
+    "role": "knight",
+    "assets": {
+      "icon": "images/icons/c2001.png",
+      "thumbnail": "images/thumbnails/c2001_l.png"
+    },
+    "skins": []
   }
 }
