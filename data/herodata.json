@@ -4805,5 +4805,53 @@
       "thumbnail": "images/thumbnails/c2001_l.png"
     },
     "skins": []
+  },
+  "Wretched Rose": {
+    "code": "c6003",
+    "name": "Wretched Rose",
+    "rarity": 4,
+    "attribute": "light",
+    "role": "manauser",
+    "assets": {
+      "icon": "images/icons/c6003.png",
+      "thumbnail": "images/thumbnails/c6003_l.png"
+    },
+    "skins": []
+  },
+  "Frieren": {
+    "code": "c1172",
+    "name": "Frieren",
+    "rarity": 5,
+    "attribute": "wind",
+    "role": "mage",
+    "assets": {
+      "icon": "images/icons/c1172.png",
+      "thumbnail": "images/thumbnails/c1172_l.png"
+    },
+    "skins": []
+  },
+  "Fern": {
+    "code": "c1173",
+    "name": "Fern",
+    "rarity": 5,
+    "attribute": "ice",
+    "role": "mage",
+    "assets": {
+      "icon": "images/icons/c1173.png",
+      "thumbnail": "images/thumbnails/c1173_l.png"
+    },
+    "skins": []
+  },
+  "Stark": {
+    "code": "c1174",
+    "name": "Stark",
+    "rarity": 5,
+    "attribute": "fire",
+    "role": "warrior",
+    "assets": {
+      "icon": "images/icons/c1174.png",
+      "thumbnail": "images/thumbnails/c1174_l.png"
+    },
+    "skins": []
   }
 }
